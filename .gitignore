@@ -1,0 +1,8 @@
+/Snippet/build/classes/*
+/Snippet/nbproject/*
+/Snippet/.DS_Store
+/.DS_Store
+/Snippet/build.xml
+/Snippet/build/.DS_Store
+/Snippet/manifest.mf
+/Snippet/src/.DS_Store
